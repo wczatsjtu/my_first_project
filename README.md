@@ -1,1 +1,4 @@
-# my_first_project
+awesome-python-webapp
+=====================
+
+A python webapp tutorial.
